@@ -1,0 +1,15 @@
+variable i
+variable data
+i = -1
+L1:
+i = i + 1
+read data.txt i data
+if data != EOF
+	goto L1
+write "there are " + i + " tokens in the file: "
+L2:
+i = i - 1
+read data.txt i data
+write data + " "
+if i > 0 
+	goto L2

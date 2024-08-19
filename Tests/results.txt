@@ -1,0 +1,13 @@
+Idle Test_Succeeded_
+Test ContextSwitch method - NUMBER 1_Succeeded_
+Test ContextSwitch method - NUMBER 2_Succeeded_
+Test Interrupt method - NUMBER 1 (processes access files)_Succeeded 
+Test ContextSwitch method - NUMBER 2 (processes access files)_Succeeded 
+Yield Test_Succeeded_
+Test FirstComeFirstServed Policy - NUMBER 1 (processes dont access files)_Succeeded_
+Test FirstComeFirstServed Policy - NUMBER 2 (processes dont access files)_Succeeded_
+Test RoundRobin (quantum=2) Policy - NUMBER 1 (processes dont access files)_Succeeded_
+Test RoundRobin (quantum=7) Policy - NUMBER 2 (processes dont access files)_Succeeded_
+Test RoundRobin (quantum=2) Policy - NUMBER 3 (processes access files)_Succeeded_
+Test AT And MaxStarvation in First Come First Served Policy_Succeeded_
+Test AverageTurnaround and MaxStarvation in RoundRobin Policy_Succeeded_
