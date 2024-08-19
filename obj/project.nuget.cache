@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucEg463SNeLZx/aQhsb2/sPutIk7m9CjmHeEJwZJs3FBxdWdjxi5v2DZhhBQqbK+9tJgW7p3k1gkcKmblSBOMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ran bar\\Desktop\\ono_operating_systems_assignment_2\\Scheduling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ran bar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ran bar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ran bar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ran bar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
